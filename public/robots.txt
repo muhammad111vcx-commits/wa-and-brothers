@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wa-and-brothers.pages.dev/sitemap.xml

@@ -1,0 +1,45 @@
+{
+  "_note": "Last known copy of the Shopify catalogue, in the same shape as /products.json. Rewritten automatically whenever the live feed is reachable. Do not edit by hand: change products in Shopify.",
+  "fetchedAt": "2026-11-13",
+  "products": [
+    {
+      "id": 15459578282262,
+      "title": "Musk Rijal | Alcohol-Free Attar Roll-On",
+      "handle": "musk-rijal-attar",
+      "body_html": "<p><strong>Musk Rijal: a bold, classic musk with timeless character.</strong></p><p>Musk Rijal opens with deep, smooth musk, settles into a warm oriental heart, and finishes on a rich woody base. Refined, elegant and long-lasting, it is a unisex attar loved by men and women alike.</p><p><strong>Fragrance notes:</strong> Musky · Oriental · Woody</p><p><strong>Why you'll love it</strong></p><ul>\n<li>100% alcohol-free, a pure attar that's gentle on skin</li>\n<li>Long-lasting fragrance that stays with you through the day</li>\n<li>Easy roll-on applicator, with no spills and no mess</li>\n<li>Elegant gold bottle with traditional engraved design</li>\n<li>Comes in a premium box, a perfect gift for Eid, weddings and special occasions</li>\n</ul><p><strong>How to use:</strong> Roll gently on your wrists and apply on your shirt. A little goes a long way.</p>",
+      "vendor": "W.A. And Brothers",
+      "tags": ["alcohol-free", "attar", "gift", "musk", "oriental", "unisex", "woody"],
+      "variants": [
+        { "title": "3ml", "price": "250.00", "compare_at_price": null, "available": true },
+        { "title": "6ml", "price": "450.00", "compare_at_price": null, "available": true },
+        { "title": "12ml", "price": "799.00", "compare_at_price": null, "available": true }
+      ],
+      "images": [
+        { "src": "https://cdn.shopify.com/s/files/1/1019/1267/4582/files/musk-rijal-07-premium-look.jpg?v=1793223233", "alt": "", "width": 800, "height": 800 },
+        { "src": "https://cdn.shopify.com/s/files/1/1019/1267/4582/files/musk-rijal-03-cap-open_c55c297e-cb62-4e2e-a7d6-25c39294889e.jpg?v=1793223395", "alt": "", "width": 800, "height": 800 },
+        { "src": "https://cdn.shopify.com/s/files/1/1019/1267/4582/files/musk-rijal-08-traditional-elegance.jpg?v=1793223233", "alt": "", "width": 800, "height": 800 },
+        { "src": "https://cdn.shopify.com/s/files/1/1019/1267/4582/files/musk-rijal-04-cap-closeup.jpg?v=1793223233", "alt": "", "width": 800, "height": 800 },
+        { "src": "https://cdn.shopify.com/s/files/1/1019/1267/4582/files/musk-rijal-06-roll-on-applicator.jpg?v=1793223233", "alt": "", "width": 800, "height": 800 }
+      ]
+    },
+    {
+      "id": 15459591979286,
+      "title": "White Oud | Alcohol-Free Attar Roll-On",
+      "handle": "white-oud-attar",
+      "body_html": "<p><strong>White Oud: a soft, luminous oud with a fresh floral opening.</strong></p><p>White Oud opens with fresh rose, bergamot and crisp apple, flows into a heart of cedarwood and jasmine, and settles on a mellow base of musk, amber and tonka bean. Smooth, elegant and long-lasting, it is a unisex attar for every day and every occasion.</p><p><strong>Fragrance notes</strong></p><ul>\n<li>\n<strong>Top:</strong> Rose, Bergamot, Apple</li>\n<li>\n<strong>Heart:</strong> Cedarwood, Jasmine</li>\n<li>\n<strong>Base:</strong> Musk, Amber, Tonka Bean</li>\n</ul><p><strong>Why you'll love it</strong></p><ul>\n<li>100% alcohol-free, a pure attar that's gentle on skin</li>\n<li>Long-lasting fragrance that stays with you through the day</li>\n<li>Easy roll-on applicator, with no spills and no mess</li>\n<li>Elegant gold bottle with traditional engraved design</li>\n<li>Comes in a premium box, a perfect gift for Eid, weddings and special occasions</li>\n</ul><p><strong>How to use:</strong> Roll gently on your wrists and apply on your shirt. A little goes a long way.</p>",
+      "vendor": "W.A. And Brothers",
+      "tags": ["amber", "attar", "floral", "gift", "musk", "oud", "unisex", "woody"],
+      "variants": [
+        { "title": "3ml", "price": "150.00", "compare_at_price": null, "available": true },
+        { "title": "6ml", "price": "270.00", "compare_at_price": null, "available": true },
+        { "title": "12ml", "price": "499.00", "compare_at_price": null, "available": true }
+      ],
+      "images": [
+        { "src": "https://cdn.shopify.com/s/files/1/1019/1267/4582/files/white-oud-01-main.jpg?v=1793224059", "alt": "", "width": 800, "height": 800 },
+        { "src": "https://cdn.shopify.com/s/files/1/1019/1267/4582/files/white-oud-03-cap-open.jpg?v=1793224059", "alt": "", "width": 800, "height": 800 },
+        { "src": "https://cdn.shopify.com/s/files/1/1019/1267/4582/files/white-oud-08-traditional-elegance.jpg?v=1793224059", "alt": "", "width": 800, "height": 800 },
+        { "src": "https://cdn.shopify.com/s/files/1/1019/1267/4582/files/white-oud-06-roll-on-applicator.jpg?v=1793224059", "alt": "", "width": 800, "height": 800 }
+      ]
+    }
+  ]
+}

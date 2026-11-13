@@ -1,0 +1,33 @@
+{
+  "name": "wa-and-brothers",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "sync-products": "node scripts/sync-products.mjs",
+    "prepare-media": "node scripts/prepare-media.mjs",
+    "predev": "npm run prepare-media",
+    "dev": "vite",
+    "prebuild": "npm run sync-products && npm run prepare-media",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource-variable/bodoni-moda": "^5.3.0",
+    "@fontsource-variable/manrope": "^5.3.0",
+    "gsap": "^3.15.1",
+    "lenis": "^1.3.27",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8"
+  }
+}

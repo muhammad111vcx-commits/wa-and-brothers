@@ -1,3 +1,5 @@
 image/
 src-shop/
 .gstack/
+node_modules/
+dist/
